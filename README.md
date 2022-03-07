@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarayanNarayan
 - 👀 I’m interested in Systems Programming, Distributed Systems, Quantum Computing
-- 🌱 I’m currently learning Blockchain, Decentrallised Systems
+- 🌱 I’m currently learning Blockchain, Decentralized Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on narayan1011g@gmail.com
 
